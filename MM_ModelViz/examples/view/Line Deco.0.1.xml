@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectionsConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Line Deco</Name>
+  <Version>0.1</Version>
+  <VisioMapFile>X:\Developments\Visual Studio\Projects\MM_ModelViz\MM_ModelViz\examples\view\Basic_Visio - Map.vsd</VisioMapFile>
+  <ExcelFile>X:\Developments\Visual Studio\Projects\MM_ModelViz\MM_ModelViz\examples\view\mm_modelviz_view_test 1.xlsx</ExcelFile>
+  <ConnectionsSheet>Connections</ConnectionsSheet>
+  <SourceElementColumnName>Source Element</SourceElementColumnName>
+  <TargetElementColumnName>Target Element</TargetElementColumnName>
+  <ElementShapeName>Element</ElementShapeName>
+  <ElementTagName>Element Name</ElementTagName>
+  <ConnectorStencilName>Connector</ConnectorStencilName>
+</ConnectionsConfig>

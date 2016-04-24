@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MM_ModelViz", "MM_ModelViz\MM_ModelViz.csproj", "{87F19A69-97F6-4BDC-B91C-83346B6A7527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1346CF5-76F2-4017-8B9B-6613E9E458E8}"
+	ProjectSection(SolutionItems) = preProject
+		MM_ModelViz\examples\view\Basic_Visio - Background.vsd = MM_ModelViz\examples\view\Basic_Visio - Background.vsd
+		MM_ModelViz\examples\view\Basic_Visio - Map.vsd = MM_ModelViz\examples\view\Basic_Visio - Map.vsd
+		MM_ModelViz\Icons\Decor.bmp = MM_ModelViz\Icons\Decor.bmp
+		MM_ModelViz\Icons\Icons.xar = MM_ModelViz\Icons\Icons.xar
+		MM_ModelViz\Icons\Landscape.bmp = MM_ModelViz\Icons\Landscape.bmp
+		MM_ModelViz\examples\view\Line Deco.0.1.xml = MM_ModelViz\examples\view\Line Deco.0.1.xml
+		MM_ModelViz\Icons\Line.bmp = MM_ModelViz\Icons\Line.bmp
+		MM_ModelViz\Icons\Matrix.bmp = MM_ModelViz\Icons\Matrix.bmp
+		MM_ModelViz\examples\view\mm_modelviz_view_test 1.xlsx = MM_ModelViz\examples\view\mm_modelviz_view_test 1.xlsx
+		MM_ModelViz\examples\view\ModelVizViewTest.1.0.xml = MM_ModelViz\examples\view\ModelVizViewTest.1.0.xml
+		MM_ModelViz\examples\view\Stencils.vss = MM_ModelViz\examples\view\Stencils.vss
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{87F19A69-97F6-4BDC-B91C-83346B6A7527}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

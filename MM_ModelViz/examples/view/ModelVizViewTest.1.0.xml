@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LandscapeViewConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>ModelVizViewTest</Name>
+  <Version>1.0</Version>
+  <VisioMapFile>X:\Developments\Visual Studio\Projects\MM_ModelViz\MM_ModelViz\examples\view\Basic_Visio - Background.vsd</VisioMapFile>
+  <VisioStencilFile>X:\Developments\Visual Studio\Projects\MM_ModelViz\MM_ModelViz\examples\view\Stencils.vss</VisioStencilFile>
+  <ExcelFile>X:\Developments\Visual Studio\Projects\MM_ModelViz\MM_ModelViz\examples\view\mm_modelviz_view_test 1.xlsx</ExcelFile>
+  <ElementStencil>Element</ElementStencil>
+  <ElementNameColumn>Element Name</ElementNameColumn>
+  <ElementSheet>Elements</ElementSheet>
+  <MapStencil>Layer</MapStencil>
+  <MapNameColumn>Layer Name</MapNameColumn>
+  <MapSheet>Layers</MapSheet>
+  <MappingSheet>Mappings</MappingSheet>
+  <MappingElementColumn>Element Name</MappingElementColumn>
+  <MappingMapColumn>Mapping</MappingMapColumn>
+  <MapSpace>0.2</MapSpace>
+  <MapTitleRowSpace>true</MapTitleRowSpace>
+  <MapTitleSpace>false</MapTitleSpace>
+  <FreezeMap>false</FreezeMap>
+  <OptimizeElements>false</OptimizeElements>
+</LandscapeViewConfig>
